@@ -1,0 +1,182 @@
+,NAME,COUNT_,prvnum_area_pct
+0,Maine,1,57.3785439
+1,New Hampshire,1,91.3804398
+2,New York,1,2.3244865
+3,New York,1,4.9587698
+4,Virginia,1,34.0777283
+5,West Virginia,1,17.7213879
+6,West Virginia,1,11.3656683
+7,Georgia,1,47.9791451
+8,North Carolina,1,1.1037848
+9,North Carolina,1,57.7402687
+10,South Carolina,1,8.2888393
+11,Alabama,1,0.0891031
+12,Alabama,1,42.1368256
+13,Kentucky,1,21.5732784
+14,Kentucky,1,16.8551712
+15,Louisiana,1,13.5671158
+16,Louisiana,1,17.1956997
+17,Mississippi,1,15.3609695
+18,Tennessee,1,26.5933857
+19,Michigan,1,0.0365052
+20,Michigan,1,34.8635941
+21,Wisconsin,1,5.8604565
+22,Wisconsin,1,16.9458923
+23,Wisconsin,1,16.901741
+24,Illinois,1,20.1799126
+25,Illinois,1,3.8361447
+26,Illinois,1,20.6896477
+27,Iowa,1,53.4055519
+28,Iowa,1,1.136616
+29,Iowa,1,1.3e-06
+30,Iowa,1,1.9136518
+31,Nebraska,1,23.1616917
+32,Nebraska,1,17.5247593
+33,North Dakota,1,1e-07
+34,North Dakota,1,0.4059089
+35,North Dakota,1,0.4203786
+36,North Dakota,1,0.0002855
+37,North Dakota,1,0.446726
+38,North Dakota,1,6.46e-05
+39,North Dakota,1,9.423728
+40,South Dakota,1,4.7610092
+41,South Dakota,1,1.9561183
+42,South Dakota,1,1.0316254
+43,Arkansas,1,18.2516041
+44,Kansas,1,3.6513796
+45,Kansas,1,1.5634606
+46,Kansas,1,15.7231302
+47,Kansas,1,5.7707672
+48,Kansas,1,1.3509874
+49,Kansas,1,2.6276917
+50,Missouri,1,44.3292847
+51,Missouri,1,13.3146429
+52,Oklahoma,1,2.1925786
+53,Oklahoma,1,7.6301556
+54,Oklahoma,1,4.7021351
+55,Oklahoma,1,0.2682533
+56,Oklahoma,1,1.1980139
+57,Oklahoma,1,0.0005132
+58,Oklahoma,1,16.6855659
+59,Oklahoma,1,0.3174527
+60,Oklahoma,1,42.5857124
+61,Texas,1,5.7548013
+62,Texas,1,0.4146965
+63,Texas,1,0.4804942
+64,Arizona,1,19.5301247
+65,Arizona,1,23.6182842
+66,Colorado,1,48.272892
+67,Colorado,1,0.9783352
+68,Idaho,1,37.3385506
+69,Idaho,1,1e-07
+70,Montana,1,6.9334016
+71,Montana,1,3.7909243
+72,New Mexico,1,1.7083735
+73,New Mexico,1,4.2544441
+74,New Mexico,1,12.5283689
+75,Utah,1,2.2257657
+76,Wyoming,1,97.2463684
+77,Washington,1,4.7901125
+78,Washington,1,3.2e-06
+79,Washington,1,52.5861893
+80,Oregon,1,32.5464058
+81,Oregon,1,1.03e-05
+82,Oregon,1,1.1475449
+83,Nevada,1,5.1457911
+84,Nevada,1,54.757534
+85,West Virginia,2,40.7756233
+86,North Carolina,2,3.4179296
+87,Alabama,2,11.3761568
+88,Alabama,2,4.7376595
+89,Alabama,2,26.0389805
+90,Louisiana,2,4.3117266
+91,Mississippi,2,82.3517609
+92,Michigan,2,3.0571845
+93,Wisconsin,2,3.6182907
+94,Wisconsin,2,21.618866
+95,Wisconsin,2,6.6900072
+96,Illinois,2,4.2048364
+97,Illinois,2,9.3018818
+98,Illinois,2,0.4790086
+99,Iowa,2,21.9971275
+100,Iowa,2,2.8984613
+101,Iowa,2,0.6956082
+102,Iowa,2,0.0003036
+103,Nebraska,2,59.2841606
+104,North Dakota,2,15.4487991
+105,North Dakota,2,0.4564465
+106,North Dakota,2,10.106143
+107,North Dakota,2,17.5100937
+108,North Dakota,2,0.4845878
+109,North Dakota,2,23.3706799
+110,North Dakota,2,15.3872128
+111,North Dakota,2,3.28e-05
+112,Kansas,2,0.9697541
+113,Kansas,2,0.0019717
+114,Kansas,2,3.1793046
+115,Kansas,2,9.541029
+116,Kansas,2,11.5024843
+117,Kansas,2,3.4e-06
+118,Kansas,2,10.4410381
+119,Kansas,2,0.7545794
+120,Kansas,2,2.9454958
+121,Kansas,2,2.7278237
+122,Kansas,2,1.3201363
+123,Kansas,2,0.2834922
+124,Kansas,2,0.00982
+125,Missouri,2,17.6702461
+126,Oklahoma,2,0.0743538
+127,Oklahoma,2,0.0001386
+128,Oklahoma,2,0.3495374
+129,Oklahoma,2,3.7192106
+130,Oklahoma,2,0.5931851
+131,Oklahoma,2,0.2624425
+132,Oklahoma,2,0.0099428
+133,Oklahoma,2,0.2154996
+134,Texas,2,5.9550419
+135,Texas,2,0.7536753
+136,Idaho,2,2.509537
+137,New Mexico,2,0.8042084
+138,New Mexico,2,3.2461598
+139,Wyoming,2,2.7492564
+140,Washington,2,19.6099892
+141,Washington,2,5.3798351
+142,Washington,2,0.2464028
+143,Oregon,2,3.8550131
+144,Oregon,2,0.1346669
+145,Oregon,2,9.2647114
+146,Commonwealth of the Northern Mariana Islands,2,9.2407942
+147,American Samoa,2,13.2182217
+148,Alabama,3,3.1125364
+149,Alabama,3,1.9920866
+150,Alabama,3,6.478241
+151,Wisconsin,3,9.6110249
+152,Illinois,3,2.8394411
+153,Iowa,3,15.1954889
+154,Iowa,3,0.60723
+155,Iowa,3,1.148213
+156,North Dakota,3,5.4745331
+157,Kansas,3,2.014015
+158,Kansas,3,0.1434015
+159,Kansas,3,1.9598385
+160,Kansas,3,0.0059988
+161,Kansas,3,0.0002517
+162,Kansas,3,3.6022062
+163,Kansas,3,0.0164793
+164,Kansas,3,3.73e-05
+165,Kansas,3,0.0058775
+166,Kansas,3,0.3576675
+167,Oklahoma,3,0.3356045
+168,Oklahoma,3,2.814265
+169,Texas,3,0.3902034
+170,Washington,3,0.2637181
+171,Washington,3,8.5170603
+172,Oregon,3,9.8273048
+173,Oregon,3,3.8892798
+174,Guam,3,36.8392754
+175,Alabama,4,0.7838947
+176,Iowa,4,0.215782
+177,Iowa,4,0.2563375
+178,Kansas,4,0.4818139
+179,Texas,4,0.2766422
+180,Washington,4,2.81e-05
